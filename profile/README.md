@@ -1,4 +1,4 @@
-# 🌟 Selamat Datang di [Nama Organisasi Anda]! 🚀
+# 🌟 Selamat Datang di Senyum Code😊! 🚀
 
 ![Banner image: Ilustrasi minimalis yang menampilkan simbol kolaborasi, kode, dan open source.](https://placehold.co/1200x200/4F46E5/FFFFFF?text=Open+Source+%26+Kolaborasi)
 
