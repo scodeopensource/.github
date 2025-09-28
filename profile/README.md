@@ -26,4 +26,4 @@ didedikasikan untuk membuat proyek **Open Source**. Misi kita adalah memberdayak
 | :--- | :--- | 
 | 💬 **Komunitas Discord** | [![Discord members](https://img.shields.io/discord/1234567890123456789?label=Discord&logo=discord&style=flat&color=5865F2)](https://discord.gg/EuRuvEN4) |
 
-> *Catatan: Jangan lupa ganti `[Nama Organisasi Anda]`, `Ganti_dengan_Nama_Org_Anda` di tautan badge GitHub, dan ganti ID server Discord (`1234567890123456789`) jika Anda ingin menampilkan jumlah anggota server Anda.*
+> *Catatan: Let's go gabung guysss.*
