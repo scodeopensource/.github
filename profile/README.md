@@ -4,8 +4,8 @@
 
 ### Inovasi Terbuka, Kolaborasi Tanpa Batas
 
-didedikasikan untuk membuat proyek **Open Source**. Misi kita adalah memberdayakan individu dan tim untuk berkolaborasi dalam solusi yang mengatasi masalah dunia nyata, mendorong pembelajaran, dan memajukan teknologi khususnya di Indonesia.
-
+Silahkan untuk yg mau membuat/ membagikan projek opensourcenya...
+mari kita sama sama belajar & berkontribusi😁
 ---
 
 ## 💡 Fokus Kami
